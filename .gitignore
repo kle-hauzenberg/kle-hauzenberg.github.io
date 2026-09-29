@@ -1,0 +1,21 @@
+.DS_Store
+*.log
+.vscode/
+
+# LaTeX build artifacts (keep only cv.tex and cv.pdf)
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.toc
+*.nav
+*.snm
+
+# Local-only sources: kept on this machine, never published
+assets/cv.tex
+assets/kle-hauzenberg.jpg
